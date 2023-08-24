@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-component-using-css-flexbox-JNPKRr7yf0))
-- Live Site URL: [Add live site URL here](https://order-summary-vuq.vercel.app/)
+- Solution URL: [(https://www.frontendmentor.io/solutions/responsive-component-using-css-flexbox-JNPKRr7yf0)]
+- Live Site URL: [(https://order-summary-vuq.vercel.app/)]
 
 ## My process
 
@@ -38,7 +38,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to create custom patterns for backgrounds
+I learned how to create custom patterns for backgrounds
 
 ## Author
 
@@ -47,6 +47,6 @@ I learnt how to create custom patterns for backgrounds
 
 ## Acknowledgments
 
-Thomas Sanakara's youtube ideo on this challenge really helped me. When I got stuck, I watched the video and was able to work my way out
+Thomas Sankara's youtube video on this challenge really helped me. When I got stuck, I watched the video and was able to work my way out
 
 (https://www.youtube.com/@tsbsankara)
